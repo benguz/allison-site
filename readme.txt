@@ -1,2 +1,2 @@
-#How to modify the pages.
+#thanks Ben
 
