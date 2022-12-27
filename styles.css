@@ -32,6 +32,7 @@ iframe {
 .navbar {
     align-items: baseline;
     display: flex;
+    flex-wrap: wrap; 
     background-color: white;
     margin: auto;
     width: 89.5%;
