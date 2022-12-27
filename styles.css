@@ -30,7 +30,6 @@ iframe {
 }
 
 .navbar {
-    overflow: hidden;
     align-items: baseline;
     display: flex;
     background-color: white;
