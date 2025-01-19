@@ -15,7 +15,7 @@ if (
 
 /*set other pages*/
 
-if (url.includes("booktest.html")) {
+if (url.includes("booktest.html") || url.includes("booktest")) {
   gdoc =
     "https://docs.google.com/document/d/e/2PACX-1vRyD_ZehBQ1vYS8Oq8j78Fd5TPoNC1nb-0h2IS2hhTDvjmWgypCt3j8hfW-QSA2PNrrqXs_InVXfrn8/pub";
 }
